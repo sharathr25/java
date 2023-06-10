@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/algorithms/MaxHammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/codewithmosh/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/codewithmosh/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/codewithmosh/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/codewithmosh/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/codewithmosh/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/codewithmosh/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/datastructures/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/datastructures/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/datastructures/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento/EditorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/pi/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R0Zg73LlrjXLHAu5QLHQRq6uYz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/pi/codewithmosh" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="" />
+      <created>1686389068820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686389068820</updated>
+    </task>
+    <servers />
+  </component>
+</project>
