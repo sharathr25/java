@@ -35,14 +35,16 @@ public class LinkedList {
         return head;
     }
 
-    void deleteTailNode() {
+    int deleteTailNode() {
         Node cur = head;
         Node prev = cur;
         while (cur.next != null) {
             prev = cur;
             cur = cur.next;
         }
+        int data = prev.next == null ? null : prev.next.data;
         prev.next = null;
+        return data;
     }
 
     void deleteMiddleNode() {

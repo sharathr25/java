@@ -4,5 +4,9 @@
  * actual or intended publication of such source code.
  */
  
-package org.pi.designpatterns.factory;public class WheelFactory {
+package org.pi.designpatterns.factory;
+public class WheelFactory {
+    public static Wheel makeWheel(float v) {
+        return new CarWheel(v);
+    }
 }
