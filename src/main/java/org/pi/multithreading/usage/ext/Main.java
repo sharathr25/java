@@ -1,4 +1,4 @@
-package org.pi.multithreading.ext;
+package org.pi.multithreading.usage.ext;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package org.pi.multithreading.ext;
+package org.pi.multithreading.usage.impl;
 
-public class ThreadExt extends Thread {
+public class ThreadImpl implements Runnable {
     @Override
     public void run() {
         for (int i = 0; i < 5; i++) {
