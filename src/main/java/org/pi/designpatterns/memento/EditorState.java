@@ -2,11 +2,11 @@ package org.pi.designpatterns.memento;
 
 // MEMENTO
 public class EditorState {
+    private final String content;
+
     public String getContent() {
         return content;
     }
-
-    private String content;
 
     public EditorState(String content) {
         this.content = content;

@@ -12,6 +12,12 @@ We can't do this for everything we type. This is where **Memento pattern** comes
 
 ## UML
 
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
 ```puml
 @startuml
 class Editor {

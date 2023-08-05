@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/atomicobjects/AtomicCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/atomicobjects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/concurentcollections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/immutable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/stateless/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/synccollections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/syncmethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/syncmethod/SyncCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/syncstatement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/syncstatement/ObjectLockCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/syncstatement/SyncCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/syncstatement/caveats/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/syncstatement/caveats/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/syncstatement/caveats/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/threadlocalinstance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/threadlocalinstance/StateHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/threadlocalinstance/ThreadState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/threadlocalvars/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/threadsafety/threadlocalvars/ThreadExt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/usage/impl/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/usage/impl/ThreadImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/usage/lamda/LamdaThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/ext/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/usage/ext/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/ext/ThreadExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/multithreading/usage/ext/ThreadExt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento/EditorState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento/EditorState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento/memento-pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento/memento-pattern.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,22 +28,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2R0Zg73LlrjXLHAu5QLHQRq6uYz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/sharathkumar/codebase/java",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowPlantUML.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sharathkumar/codebase/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.plantuml.idea.settings.PlantUmlSettingsPage&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/memento" />
@@ -147,7 +131,6 @@
       <list>
         <item itemvalue="Application.org.pi.multithreading.threadsafety.syncstatement.Main" />
         <item itemvalue="Application.org.pi.multithreading.threadsafety.syncmethod.Main" />
-        <item itemvalue="Application.org.pi.multithreading.threadsafety.atomicobjects.Main" />
         <item itemvalue="Application.org.pi.multithreading.threadsafety.concurentcollections.Main" />
         <item itemvalue="Application.org.pi.multithreading.threadsafety.synccollections.Main" />
       </list>
@@ -163,5 +146,20 @@
       <updated>1686389068820</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
