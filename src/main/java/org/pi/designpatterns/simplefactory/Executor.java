@@ -1,4 +1,4 @@
-package org.pi.designpatterns.factory;
+package org.pi.designpatterns.simplefactory;
 
 public class Executor {
     public static void main(String[] args) {

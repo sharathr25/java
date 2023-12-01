@@ -2,32 +2,30 @@ package org.pi.designpatterns.iterator;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 public class BrowserHistory {
-    private final List<String> urls = new ArrayList<>();
+    private final Stack<String> urls = new Stack<>();
 
     void push(String url) {
-        urls.add(url);
+        urls.push(url);
     }
 
     String pop() {
-        int lastIndex = urls.size() - 1;
-        String lastUrl = urls.get(lastIndex);
-        urls.remove(lastIndex);
-        return lastUrl;
+        return urls.pop();
     }
 
     Iterator<String> createIterator() {
         return new ListIterator(this);
     }
 
-//    check notes.md
+//    check iterator-pattern.md
 //    public List<String> getUrls() {
 //        return urls;
 //    }
 
     static class ListIterator implements Iterator<String> {
-        private BrowserHistory history;
+        private final BrowserHistory history;
         private int index;
 
         ListIterator(BrowserHistory history) {

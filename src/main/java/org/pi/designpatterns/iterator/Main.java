@@ -6,9 +6,10 @@ public class Main {
 
         history.push("www.google.com");
         history.push("www.youtube.com");
+        history.pop();
         history.push("www.facebook.com");
 
-//        check notes.md
+//        check iterator-pattern.md
 //        for (int i = 0; i < history.getUrls().size(); i++) {
 //            System.out.println(history.getUrls().get(i));
 //        }

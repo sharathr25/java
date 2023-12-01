@@ -1,4 +1,4 @@
-package org.pi.designpatterns.factory;
+package org.pi.designpatterns.simplefactory;
 
 public class CarWheel implements Wheel {
     private float radius;
