@@ -5,19 +5,14 @@ public class Main {
         Editor editor = new Editor();
         History history = new History(editor.createState());
 
-        editor.setContent("a");
+        editor.setContent("hello howr u?");
         history.push(editor.createState());
-
-        editor.setContent("b");
-        history.push(editor.createState());
-
-        editor.setContent("c");
-        editor.restoreState(history.pop());
-        editor.restoreState(history.pop());
-        editor.restoreState(history.pop());
-
         System.out.println(editor.getContent());
 
+        editor.restoreState(history.pop());
 
+        editor.setContent("hello how r u?");
+        history.push(editor.createState());
+        System.out.println(editor.getContent());
     }
 }

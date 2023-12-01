@@ -11,31 +11,26 @@ i.e when add something new like `title` we need one more list something like `pr
 We can't do this for everything we type. This is where **Memento pattern** comes to rescue.
 
 ## UML
-
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
-
-```puml
-@startuml
-class Editor {
-    -content: String
-    +createState()
-    +restoreState(state)
-}
-class EditorState {
-    -content: String
-}
-class History {
-    -states: List
-    +push(state)
-    +pop()
-}
-Editor ..> EditorState
-EditorState --* History
-@enduml
+```mermaid
+---
+title: Memento Pattern
+---
+classDiagram
+    Editor ..> EditorState
+    EditorState --* History
+    class Editor {
+        -content: String
+        +createState()
+        +restoreState(state)
+    }
+    class EditorState {
+        -content: String
+    }
+    class History {
+        -states: List
+        +push(state)
+        +pop()
+    }
 ```
 
 * Whenever we set content of `Editor` we can create a `EditorState` with this new content and push it in history
