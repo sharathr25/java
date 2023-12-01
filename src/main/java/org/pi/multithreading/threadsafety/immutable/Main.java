@@ -1,23 +1,12 @@
 package org.pi.multithreading.threadsafety.immutable;
 
 public class Main {
-    static class MessageService {
-        private final String msg;
-
-
-        public MessageService(String msg) {
-            this.msg = msg;
-        }
-
-        public String getMsg() {
-            return msg;
-        }
-    }
+    record MessageService(String msg) {}
 
     public static void main(String[] args) {
         MessageService messageService = new MessageService("hello world");
-        Thread t1 = new Thread(() -> System.out.println(messageService.getMsg()));
-        Thread t2 = new Thread(() -> System.out.println(messageService.getMsg()));
+        Thread t1 = new Thread(() -> System.out.println(messageService.msg()));
+        Thread t2 = new Thread(() -> System.out.println(messageService.msg()));
 
         t1.start();
         t2.start();
