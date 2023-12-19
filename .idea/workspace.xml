@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="design pattern">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/algorithms/dp/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/algorithms/dp/Tribonacci.java" afterDir="false" />
+    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="dp">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/problem/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/problem/GreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/problem/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/problem/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/problem/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution/GreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution/SimplePizzaFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +60,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/sharathkumar/codebase/java/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution",
+    "last_opened_file_path": "/Users/sharathkumar/codebase/java/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -59,7 +68,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.pi.headfirstdesignpatterns.create.factory.problem" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/observer/sollution" />
     </key>
@@ -213,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702655402615</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dp">
+      <option name="closed" value="true" />
+      <created>1702977059658</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702977059658</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +253,8 @@
     <MESSAGE value="iterator design pattern" />
     <MESSAGE value="clean up" />
     <MESSAGE value="design pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="design pattern" />
+    <MESSAGE value="dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="dp" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

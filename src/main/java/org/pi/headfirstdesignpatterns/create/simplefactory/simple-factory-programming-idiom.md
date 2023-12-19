@@ -1,0 +1,1 @@
+# The Simple Factory isn’t actually a Design Pattern; it’s more of a programming idiom.
