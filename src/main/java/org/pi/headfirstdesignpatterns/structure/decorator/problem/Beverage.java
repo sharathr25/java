@@ -5,8 +5,3 @@ public interface Beverage {
 
    double cost();
 }
-
-// HouseBlend
-//DarkRoast
-//Decaf
-//Espresso
