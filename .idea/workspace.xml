@@ -4,59 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="clean up">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/observer-pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/problem/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/problem/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/problem/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/problem/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/sollution/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/sollution/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/sollution/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/sollution/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/sollution/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/sollution/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/sollution/WeatherDataObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/observer/sollution/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/problem/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/problem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/problem/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/problem/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/problem/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/FlyingBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/QuackingBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/sollution/WoodenDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/strategy/strategy-pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/decorator-pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/StarBuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/beverages/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/beverages/Decaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/beverages/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/beverages/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/beverageswithcondiments/DarkRoastWithWhipAndSoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/beverageswithcondiments/HouseBlendWithSteamedMilkAndMocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/problem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/StarBuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/beverages/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/beverages/Decaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/beverages/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/beverages/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/condiments/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/condiments/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution/condiments/Whip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="design pattern">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/algorithms/dp/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/algorithms/dp/Tribonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +41,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Fibonacci.executor": "Run",
+    "Application.Tribonacci.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -129,7 +81,20 @@
       <recent name="org.pi.multithreading.threadsafety.syncmethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.pi.headfirstdesignpatterns.structure.decorator.sollution.StarBuzzCoffee">
+  <component name="RunManager" selected="Application.Tribonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pi.algorithms.dp.Fibonacci" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pi.algorithms.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StarBuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.structure.decorator.problem.StarBuzzCoffee" />
       <module name="java" />
@@ -143,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.observer.problem.WeatherStation" />
+    <configuration name="Tribonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pi.algorithms.dp.Tribonacci" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.pi.headfirstdesignpatterns.observer.problem.*" />
+          <option name="PATTERN" value="org.pi.algorithms.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +127,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.pi.headfirstdesignpatterns.observer.sollution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.pi.headfirstdesignpatterns.strategy.sollution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.strategy.sollution.Main" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.pi.headfirstdesignpatterns.strategy.sollution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tribonacci" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.org.pi.headfirstdesignpatterns.structure.decorator.sollution.StarBuzzCoffee" />
         <item itemvalue="Application.StarBuzzCoffee" />
         <item itemvalue="Application.org.pi.headfirstdesignpatterns.observer.sollution.WeatherStation" />
-        <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.org.pi.headfirstdesignpatterns.strategy.sollution.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701432030940</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="design pattern">
+      <option name="closed" value="true" />
+      <created>1702655402615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702655402615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +231,8 @@
     <MESSAGE value="clean up memento pattern" />
     <MESSAGE value="iterator design pattern" />
     <MESSAGE value="clean up" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean up" />
+    <MESSAGE value="design pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="design pattern" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
