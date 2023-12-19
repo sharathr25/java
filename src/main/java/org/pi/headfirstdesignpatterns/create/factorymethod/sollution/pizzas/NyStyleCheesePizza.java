@@ -1,0 +1,11 @@
+package org.pi.headfirstdesignpatterns.create.factorymethod.sollution.pizzas;
+
+public class NyStyleCheesePizza extends Pizza {
+    public NyStyleCheesePizza() {
+        name = "New York style pizza";
+        dough = "Thin Crust Dough";
+        sauce = "Marinara Sauce";
+
+        toppings.add("Shredded Mozzarella Cheese");
+    }
+}
