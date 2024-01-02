@@ -4,36 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="lld-poker">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/problem/PizzaFranchise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/problem/pizzas/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/problem/pizzas/NyStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/problem/pizzas/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/problem/problem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/problem/stores/ChicagoPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/problem/stores/NyPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/problem/stores/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/NYPizzaIngredientsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/NyPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/PizzaFranchise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/PizzaIngredientsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Clams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/FreshClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Garlic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/MarinaraSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Onion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Pepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/ReggianoCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/SlicedPepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/ThinCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory/sollution/ingredients/Veggie.java" afterDir="false" />
+    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="abstract factory design pattern">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/common/Hottub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/common/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/common/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/common/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/problem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/problem/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/problem/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/MacroCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/NoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/StereoOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/StereoOnWithCDCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/sollution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/problem/ChocolateBoiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/problem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/problem/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/sollution/ChocolateBoiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/sollution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/sollution/sollution.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +66,13 @@
     "Application.Main.executor": "Run",
     "Application.PizzaFranchise.executor": "Run",
     "Application.Tribonacci.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.behaviour.command.problem.Main.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.behaviour.command.sollution.Main.executor": "Run",
     "Application.org.pi.headfirstdesignpatterns.create.abstractfactory.sollution.PizzaFranchise.executor": "Run",
     "Application.org.pi.headfirstdesignpatterns.create.factorymethod.sollution.PizzaFranchise.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.create.singleton.problem.Main.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.create.singleton.problem.problem.Main.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.create.singleton.sollution.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -82,7 +81,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/sharathkumar/codebase/java/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory",
+    "last_opened_file_path": "/Users/sharathkumar/codebase/java/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/sollution",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -94,11 +93,11 @@
       <recent name="org.pi.headfirstdesignpatterns.create.factory.problem" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/sollution" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factorymethod/sollution" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factorymethod/problem" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/sollution" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/iterator" />
@@ -119,13 +118,13 @@
       <recent name="org.pi.designpatterns.iterator.problematic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.pi.headfirstdesignpatterns.create.abstractfactory.sollution.PizzaFranchise">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pi.llds.poker.Main" />
+  <component name="RunManager" selected="Application.org.pi.headfirstdesignpatterns.behaviour.command.sollution.Main">
+    <configuration name="org.pi.headfirstdesignpatterns.behaviour.command.problem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.behaviour.command.problem.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.pi.llds.poker.*" />
+          <option name="PATTERN" value="org.pi.headfirstdesignpatterns.behaviour.command.problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,25 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaFranchise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.create.factorymethod.problem.PizzaFranchise" />
+    <configuration name="org.pi.headfirstdesignpatterns.behaviour.command.sollution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.behaviour.command.sollution.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.pi.headfirstdesignpatterns.create.factorymethod.problem.pizzas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tribonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pi.algorithms.dp.Tribonacci" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.pi.algorithms.dp.*" />
+          <option name="PATTERN" value="org.pi.headfirstdesignpatterns.behaviour.command.sollution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +158,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.pi.headfirstdesignpatterns.create.factorymethod.sollution.PizzaFranchise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.create.factorymethod.sollution.PizzaFranchise" />
+    <configuration name="org.pi.headfirstdesignpatterns.create.singleton.problem.problem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.create.singleton.problem.problem.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.pi.headfirstdesignpatterns.create.factorymethod.sollution.*" />
+          <option name="PATTERN" value="org.pi.headfirstdesignpatterns.create.singleton.problem.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.pi.headfirstdesignpatterns.create.singleton.sollution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pi.headfirstdesignpatterns.create.singleton.sollution.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pi.headfirstdesignpatterns.create.singleton.sollution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.pi.headfirstdesignpatterns.behaviour.command.sollution.Main" />
+        <item itemvalue="Application.org.pi.headfirstdesignpatterns.behaviour.command.problem.Main" />
+        <item itemvalue="Application.org.pi.headfirstdesignpatterns.create.singleton.sollution.Main" />
+        <item itemvalue="Application.org.pi.headfirstdesignpatterns.create.singleton.problem.problem.Main" />
         <item itemvalue="Application.org.pi.headfirstdesignpatterns.create.abstractfactory.sollution.PizzaFranchise" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.org.pi.headfirstdesignpatterns.create.factorymethod.sollution.PizzaFranchise" />
-        <item itemvalue="Application.PizzaFranchise" />
-        <item itemvalue="Application.Tribonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704021943515</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="abstract factory design pattern">
+      <option name="closed" value="true" />
+      <created>1704035862628</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704035862628</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,7 +339,8 @@
     <MESSAGE value="factory method pattern" />
     <MESSAGE value="refactor" />
     <MESSAGE value="lld-poker" />
-    <option name="LAST_COMMIT_MESSAGE" value="lld-poker" />
+    <MESSAGE value="abstract factory design pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract factory design pattern" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
