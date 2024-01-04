@@ -1,4 +1,4 @@
-package org.pi.headfirstdesignpatterns.behaviour.command.sollution;
+package org.pi.headfirstdesignpatterns.behaviour.command.sollution.commands;
 
 import org.pi.headfirstdesignpatterns.behaviour.command.common.Light;
 

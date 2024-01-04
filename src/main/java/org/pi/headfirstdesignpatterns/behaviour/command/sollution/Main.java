@@ -2,6 +2,7 @@ package org.pi.headfirstdesignpatterns.behaviour.command.sollution;
 
 import org.pi.headfirstdesignpatterns.behaviour.command.common.Light;
 import org.pi.headfirstdesignpatterns.behaviour.command.common.Stereo;
+import org.pi.headfirstdesignpatterns.behaviour.command.sollution.commands.*;
 
 public class Main {
     public static void main(String[] args) {

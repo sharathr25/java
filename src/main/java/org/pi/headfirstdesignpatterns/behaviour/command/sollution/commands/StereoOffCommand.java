@@ -1,6 +1,7 @@
-package org.pi.headfirstdesignpatterns.behaviour.command.sollution;
+package org.pi.headfirstdesignpatterns.behaviour.command.sollution.commands;
 
 import org.pi.headfirstdesignpatterns.behaviour.command.common.Stereo;
+import org.pi.headfirstdesignpatterns.behaviour.command.sollution.commands.Command;
 
 public class StereoOffCommand implements Command {
     private final Stereo stereo;

@@ -1,4 +1,4 @@
-package org.pi.headfirstdesignpatterns.behaviour.command.sollution;
+package org.pi.headfirstdesignpatterns.behaviour.command.sollution.commands;
 
 public class MacroCommand implements Command {
     private final Command[] commands;

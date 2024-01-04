@@ -1,5 +1,8 @@
 package org.pi.headfirstdesignpatterns.behaviour.command.sollution;
 
+import org.pi.headfirstdesignpatterns.behaviour.command.sollution.commands.Command;
+import org.pi.headfirstdesignpatterns.behaviour.command.sollution.commands.NoCommand;
+
 public class RemoteControl {
     private static final int NUMBER_OF_SLOTS_AVAILABLE = 7;
     private final Command[] onCommands;
