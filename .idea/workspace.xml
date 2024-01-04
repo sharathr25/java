@@ -4,19 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="command design pattern">
+    <list default="true" id="9839c318-a333-4aad-84ba-f92a51ee3187" name="Changes" comment="refactor">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/EuropeanACPlug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/EuropeanEarth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/EuropeanLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/EuropeanNeutral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/EuropeanWallSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/StandardACPlug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/StandardLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/StandardNeutral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/ACPowerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/EuropeanACPlug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/EuropeanEarth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/EuropeanLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/EuropeanNeutral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/EuropeanWallSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/StandardACPlug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/StandardLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution/StandardNeutral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/problem/problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/problem/problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/commands/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/LightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/commands/LightOffCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/commands/LightOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/MacroCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/commands/MacroCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/NoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/commands/NoCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/StereoOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/commands/StereoOffCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/StereoOnWithCDCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/behaviour/command/sollution/commands/StereoOnWithCDCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/decorator/problem/problem.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,44 +57,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PizzaFranchise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tribonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.pi.headfirstdesignpatterns.behaviour.command.problem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.pi.headfirstdesignpatterns.behaviour.command.sollution.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.pi.headfirstdesignpatterns.create.abstractfactory.sollution.PizzaFranchise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.pi.headfirstdesignpatterns.create.factorymethod.sollution.PizzaFranchise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.pi.headfirstdesignpatterns.create.singleton.problem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.pi.headfirstdesignpatterns.create.singleton.problem.problem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.pi.headfirstdesignpatterns.create.singleton.sollution.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowPlantUML.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sharathkumar/codebase/java/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/sollution&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.plantuml.idea.settings.PlantUmlSettingsPage&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Fibonacci.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PizzaFranchise.executor": "Run",
+    "Application.Tribonacci.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.behaviour.command.problem.Main.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.behaviour.command.sollution.Main.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.create.abstractfactory.sollution.PizzaFranchise.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.create.factorymethod.sollution.PizzaFranchise.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.create.singleton.problem.Main.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.create.singleton.problem.problem.Main.executor": "Run",
+    "Application.org.pi.headfirstdesignpatterns.create.singleton.sollution.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowPlantUML.ShowToolbar": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sharathkumar/codebase/java/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.plantuml.idea.settings.PlantUmlSettingsPage"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.pi.headfirstdesignpatterns.create.factory.problem" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/problem" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/structure/adapter/sollution" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/singleton/sollution" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/abstractfactory" />
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factorymethod/sollution" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factorymethod/problem" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/pi/headfirstdesignpatterns/create/factory/sollution" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/org/pi/designpatterns/iterator" />
@@ -310,7 +319,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704215138078</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1704372795642</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704372795642</updated>
+    </task>
+    <task id="LOCAL-00016" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1704372815800</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704372815800</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,11 +358,11 @@
     <MESSAGE value="simple factory programming idiom" />
     <MESSAGE value="ignore workspace.xml" />
     <MESSAGE value="factory method pattern" />
-    <MESSAGE value="refactor" />
     <MESSAGE value="lld-poker" />
     <MESSAGE value="abstract factory design pattern" />
     <MESSAGE value="command design pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="command design pattern" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
