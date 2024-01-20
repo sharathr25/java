@@ -1,3 +1,3 @@
 * We can solve the problem using **Adapter Pattern**
 * The **Adapter Pattern** converts the interface of a class into another interface the clients expect. Adapter lets classes work together that couldn’t otherwise because of incompatible interfaces.
-* We created an adapter i.e, `ACPowerAdapter` which takes one interface i.e, `StandardACPlug` and converts it another interface i.e, EuropeanACPlug so that we can connect to client i.e, `EuropeanWallSocket`
+* We created an adapter i.e, `ACPowerAdapter` which takes one interface i.e, `StandardACPlug` and converts it another interface i.e, `EuropeanACPlug` so that we can connect to client i.e, `EuropeanWallSocket`

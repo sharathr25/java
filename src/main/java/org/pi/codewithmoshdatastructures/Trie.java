@@ -1,4 +1,4 @@
-package org.pi.codewithmosh;
+package org.pi.codewithmoshdatastructures;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -48,7 +48,7 @@ public class Trie {
     public void insert(String word) {
         Node current = root;
         for (char ch: word.toCharArray()) {
-            if(!current.hasCharacter(ch))
+            if(current.hasCharacter(ch))
                 current.addChild(ch);
             current  = current.getChild(ch);
         }
@@ -59,7 +59,7 @@ public class Trie {
         if(word == null) return false;
         Node current = root;
         for (char ch: word.toCharArray()) {
-            if(!current.hasCharacter(ch))
+            if(current.hasCharacter(ch))
                 return false;
             current  = current.getChild(ch);
         }

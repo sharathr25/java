@@ -1,4 +1,4 @@
-package org.pi.codewithmosh;
+package org.pi.codewithmoshdatastructures;
 
 // parent index = index - 1 / 2
 // left child index = 2 * index + 1

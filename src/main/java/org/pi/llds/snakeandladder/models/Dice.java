@@ -1,7 +1,5 @@
 package org.pi.llds.snakeandladder.models;
 
-import static org.pi.llds.snakeandladder.utils.Utils.getRandomNum;
-
 public class Dice {
     private final int minValue;
     private final int maxValue;

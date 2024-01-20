@@ -3,7 +3,7 @@
 ### Open-Closed Principle
 Classes should be open for extension, but closed for modification.
 
-To solve our problem with StarBuzz coffee shop and support changing needs of customers with new beverages, new condiments, different combinations of beverages and condiments we can use **Decorator Pattern** 
+To solve our problem with StarBuzz coffee shop and support changing needs of customers with new beverages, new condiments, different combinations of beverages and condiments we can use **Decorator Pattern**
 
 Let's assume a customer came and
 * ask for dark roast coffee we create
@@ -36,7 +36,7 @@ Mocha {
 }
 ```
 * If that's the end of customer requirements then the total cost will be:
-```Whip.cost3 + Mocha.cost2 + DarkRoast.cost1```
+  ```Whip.cost3 + Mocha.cost2 + DarkRoast.cost1```
 * And we can continue to wrap with decorators how many number of times we want and calculate the cost at the end
 
 ## Some Gotchas

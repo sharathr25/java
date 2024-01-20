@@ -1,4 +1,4 @@
-package org.pi.codewithmosh;
+package org.pi.codewithmoshdatastructures;
 
 public class PriorityQueue {
     Heap heap = new Heap();

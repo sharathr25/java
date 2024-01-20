@@ -1,4 +1,4 @@
-package org.pi.codewithmosh;
+package org.pi.codewithmoshdatastructures;
 
 import java.util.NoSuchElementException;
 

@@ -4,5 +4,5 @@
  * actual or intended publication of such source code.
  */
  
-package org.pi.algorithms;public class MaxHammingDistance {
+package org.pi.codewithmoshdatastructures;public class AVLTree {
 }
