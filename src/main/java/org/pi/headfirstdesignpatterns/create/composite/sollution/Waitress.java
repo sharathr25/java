@@ -1,7 +1,7 @@
 package org.pi.headfirstdesignpatterns.create.composite.sollution;
 
 public class Waitress {
-    private MenuComponent allMenus;
+    private final MenuComponent allMenus;
 
     public Waitress(MenuComponent allMenus) {
         this.allMenus = allMenus;

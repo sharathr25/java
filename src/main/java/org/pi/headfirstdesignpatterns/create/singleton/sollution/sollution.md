@@ -19,7 +19,7 @@ But this will be too much, we need to synchronise only 1st time of the object cr
 class SingleTon {
     private static SingleTon uniqueInstance = new SingleTon();
     
-    public static synchronized Singleton getInstance() {
+    public static Singleton getInstance() {
         return uniqueInstance;
     }
     // ...
